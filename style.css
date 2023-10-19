@@ -1,0 +1,30 @@
+*{
+    margin: 20px;
+    padding: 0%;
+    font-size: large;
+    color: #060D08;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+.jogo1{
+        padding: 15%;
+        background-color: #595D2B;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: larger;
+}
+.pesquisa{
+        padding: 15%;
+        background-color: #2c3f19;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: larger;
+}
+
+body{
+    background-color: #a54805;
+}
+
+.title{
+    font-size: larger;
+    
+}
+
